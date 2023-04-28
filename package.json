@@ -1,6 +1,6 @@
 {
   "name": "glf-cli",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "Build the project file directory",
   "bin": "./bin/cli.js",
   "main": "index.js",
